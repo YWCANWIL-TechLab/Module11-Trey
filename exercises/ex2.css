@@ -1,0 +1,36 @@
+#ex2-q1{
+    background-image: linear-gradient(red,blue);
+}
+#ex2-q2{
+    background-image: linear-gradient(to left,orange,black );
+}
+#ex2-q3{
+    background-image: linear-gradient(to top left,white,black);
+}
+#ex2-q4{
+    background-image: linear-gradient(
+        45deg,
+        violet,
+        pink);
+}
+#ex2-q5{
+    background-image:linear-gradient(
+        black,
+        red,
+        white);
+}
+#ex2-q6{
+    background-image: linear-gradient(
+    rgba(50, 20, 0, 0),
+    rgba(50, 20,0, 1)
+    );
+}
+#ex2-q7{
+    background-image: repeating-linear-gradient(blue,black,white);
+}
+#ex2-q8{
+    background-image: radial-gradient(circle,white,black);
+}
+#ex2-q9{
+    background-image: radial-gradient(green,black);
+}

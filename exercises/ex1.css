@@ -1,0 +1,55 @@
+#ex1-q1{
+    background-image: url(../images/logo_ywca_32by32.png),url(../images/olympic-np.jpg);
+    background-position:top right,center;
+    background-repeat: no-repeat, no-repeat;
+}
+#ex1-q2{
+    background-image: url(../images/logo_ywca_32by32.png),url(../images/yosemite-valley.jpg);
+    background-repeat: no-repeat;
+    background-size: 0% cover;
+}
+#ex1-q3{
+    background-image: url(../images/logo_ywca_32by32.png),url(../images/angels-landing.jpg);
+    background-repeat: no-repeat;
+    background-size: 0% cover;
+}
+html{
+    background-image: url(../images/glacier-np.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+}
+#ex1-q5{
+    border: solid white 5px;
+    background-image: url(../images/grand-teton.jpg);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+}
+#ex1-q6{
+    border: solid white 5px;
+    background-image: url(../images/grand-teton.jpg);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}
+#ex1-q7{
+    border: solid white 5px;
+    background-image: url(../images/grand-teton.jpg);
+    background-repeat: no-repeat;
+    background-origin:content-box;
+}
+#ex1-q8{
+    border: dotted white 5px;
+    background-color: blue;
+    background-clip: content-box;
+}
+#ex1-q9{
+    border: dotted white 5px;
+    background: purple;
+    background-clip: padding-box;
+}
+#ex1-q10{
+    border: dotted white 5px;
+    background: green;
+    background-clip: content-box
+}
