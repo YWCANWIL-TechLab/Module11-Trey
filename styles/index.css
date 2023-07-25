@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel:regular);
+@import url(https://fonts.googleapis.com/css?family=Fauna+One:regular);
+
+body, 
+html {
+    font-family: "Fauna One", sans-serif;
+    font-size: 1.125rem;
+    margin: 0;
+    padding: 4rem 1rem;
+    line-height: 1.5;
+}
+
+.header {
+    font-family: Cinzel, serif;
+    font-size: 1.5rem;
+    margin: 10%;
+    text-align: center;
+}
+
+.container {
+    margin: 5%;
+}
+
+.link {
+    display: inline-block;
+    font-family: "Fauna One", sans-serif;
+    margin-inline: 5%;
+}
+
+.question {
+    padding-block: 4rem;
+}
